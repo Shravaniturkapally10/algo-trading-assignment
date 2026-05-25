@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algorithmic Trading Strategy Assignment
 
 ## Project Overview
@@ -71,3 +72,7 @@ Install all required libraries using:
 
 ```bash id="v10mxv"
 pip install -r requirements.txt
+=======
+# algo-trading-assignment
+Algorithmic Trading Strategy Project
+>>>>>>> 9d544de3f3671d09d39dcc07f913ef693aecb497
